@@ -1,0 +1,12 @@
+
+*.fasXX
+
+blasthits-protein-unknown1.fasXX.XML
+
+unknown1-alignment.fasta
+
+unknown1-plus-human-fly.fasta
+
+unknown1-protein.fasta
+
+unknown2-protein.fasta
